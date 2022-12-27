@@ -5,7 +5,12 @@ the Internet. To illustrate, below is a video of a custom-written save file
 virus being downloaded from a shady website, added to a game save directory and
 then loaded in-game. As you'll see, it's not until the malicious save file is
 loaded that the virus is recognizable as such. At that point the virus is
-already running and can start to speak for itself.
+already running and can start to speak for itself. 
+
+Watch video on [vimeo](https://vimeo.com/784655708)
+or [catbox](https://files.catbox.moe/0uvmn2.webm)
+
+#### Please watch the video before continuing.
 
 ## How to Stay Safe
 
@@ -17,8 +22,6 @@ Hypothetically, if someone were to email you `I found out how to save
 <<<spoiler>>>, save file attached as proof!` it could be awfully tempting to
 try out that save file. Instead, do some investigating before you download or
 open it.
-
-### links to video should be here
 
 ## Regarding Ren'Py
 
