@@ -131,6 +131,8 @@ when reading it. It should work on most Ren'Py games, regardless of whether
 Python 2 or Python 3 is used, and should work even if the game is being played
 on the web.
 
+Sample availble here: https://files.catbox.moe/ergi93.save
+
 ## Further Research
 
 I wrote a Python pickle assembler, disassembler and decompiler to help with
