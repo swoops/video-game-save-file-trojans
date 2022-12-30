@@ -33,8 +33,8 @@ The virus shown in the above video could also run on games like
 "[Doki Doki Literature Club](https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/)",
 [Ren'Py Chess](https://r3dhummingbird.itch.io/renpy-chess-game) or even
 "[Shadow The Hedgehog](https://shibaya.itch.io/shadow-the-hedgehog)" (a dating
-simulator). _All games built with Ren’Py are affected._ That said, save file sharing is
-extremely rare with Ren’Py games.
+simulator). _All games built with Ren’Py are affected._ ~~That said, save file sharing is
+extremely rare with Ren’Py games~~ (depends on the game, see prevelence section).
 
 For those unfamiliar, Ren'Py is a visual novel game development platform. Save
 file sharing doesn't often make much sense as a feature of visual novels (who
@@ -147,3 +147,11 @@ I'm still researching more ideas regarding pickles that I haven't yet
 published. I'm currently between employers, but assuming that I'm working with
 a new company before publication, I intend to publish on my next employer's
 website. Regardless, I will link to the article(s) from here.
+
+## Prevalence
+
+Ren'Py is a very vast community. There are games like DDLC that are all about the
+story. No one would want to skip ahead in such a game, so it's hard to find save files
+for it. There are other games where one might want to skip the boring story to get to
+the "good part". So it is hard to qualify just how prevalence save file sharing is in
+Ren'Py as a whole.
